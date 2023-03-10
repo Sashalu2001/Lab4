@@ -1,0 +1,4 @@
+C:/Programming_C/LabsC/Lab4/cmake-build-debug/CMakeFiles/Lab4.dir
+C:/Programming_C/LabsC/Lab4/cmake-build-debug/CMakeFiles/pfuncs.dir
+C:/Programming_C/LabsC/Lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programming_C/LabsC/Lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
